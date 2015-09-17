@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MaterialDesignDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_design">DesignActivity</string>
+    <string name="title_activity_scrolling_action_bar">ScrollingACtionBArActivity</string>
+    <string name="title_activity_recy_cler">RecyClerActivity</string>
+    <string name="transition_name_name">transition:NAME</string>
+    <string name="transition_name_circle">transition:IMAGE</string>
+    <string name="transition_name_phone">transition:PHONE</string>
+    <string name="title_activity_scribbler">Scribbler</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
