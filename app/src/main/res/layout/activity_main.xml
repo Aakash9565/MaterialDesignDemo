@@ -28,7 +28,7 @@
                 android:scaleType="fitXY"
                 android:src="@drawable/bridge"
                 app:layout_collapseMode="pin"
-                app:layout_collapseParallaxMultiplier="2.5"/>
+                app:layout_collapseParallaxMultiplier="1.5"/>
 
 
             <android.support.v7.widget.Toolbar
